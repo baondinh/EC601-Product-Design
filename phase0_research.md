@@ -59,9 +59,7 @@ Using Claude Pro Sonnet 5
   - Synthetic biology
   - Microfluidics
   - Cyber-Physical systems
-
-# Phase 1 Assignment: Build a Tutorial with an LLM
-
+    
 (Below generated with Claude Sonnet 5 and edited)
 ## Project type
 **Ultra-low-power embedded/IoT systems project** — this sits squarely in one of the four buckets the assignment names outright ("ultra-low-power embedded/IoT devices"), not in FPGA/architecture or hardware-security. More precisely: it's a **firmware-and-hardware-integration project in energy-aware embedded control**, combining three things that are each individually well-scoped for 12 weeks: (1) a power subsystem (harvester + supercap + low-power MCU) that determines how much energy is available at any moment; (2) a sensing/actuation loop (moisture/light/level sensing driving a water or nutrient dosing actuator) that would normally run on whatever schedule you choose; and (3) a decision policy that has to reconcile the two — deciding whether a given sense/decide/act cycle is worth spending energy on right now. There's no reconfigurable-logic (FPGA) component and no custom silicon; the "architecture" contribution is in the energy-aware scheduling and control-loop design, not in digital hardware design. This also matches your own conclusion — dropping the earlier optional FPGA extension is the right call for a 12-week single-person build with a live-organism dependency, which is already a real timeline risk on its own.
