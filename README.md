@@ -1,6 +1,7 @@
 # EC601 - Product Design in Electrical & Computer Engineering
 
 Topic: Hardware, Architecture & Embedded Systems
+Personal Interests: Sound, Plants, Biophilic Design
 Using Claude Pro Sonnet 5
 
 # Phase 0: Research & Professors at BU
@@ -14,6 +15,13 @@ Using Claude Pro Sonnet 5
   - Privacy-Preserving Computing using Fully Homomorphic Encryption (funded by RedHat, NSF)
   - Network and Memory Architectures for Manycore/GPU Systems (funded by NSF, DARPA)
   - Taming Memory Corruption with Security Monitors (funded by NSF, Google)
+- Summarized Topics:
+  - Computer architecture
+  - Hardware security
+  - Digital VLSI
+  - Reconfigurable computing
+  - Neuromorphic computing
+  - Fully-homomorphic-encryption for ML security
 
 ## Rabia Yazicigil
 - Statement & Links:
@@ -24,8 +32,32 @@ Using Claude Pro Sonnet 5
   - Cyber-Secure Biological Systems
   - All-in-One Data Decoders
   - Secure Wireless Communications
+- Summarized Topics:
+  - Energy-constrained wireless systems
+  - RF/physical-layer security
+  - Spectrum sensing
  
-## Roscoe Giles
+## Roscoe Giles - Professor Emeritus
+- Statement & Links:
+  - https://www.bu.edu/eng/profile/roscoe-giles/
+- Summarized Topics:
+  - Advanced computer architectures
+  - Distributed and parallel computing
+  - Advanced Scientific Computing
+    
 ## Douglas Densmore
+- Statement & Links:
+  - Cross-disciplinary Integration of Design Automation Research (CIDAR) group at Boston University develop computational and experimental tools for synthetic biology. 
+  - https://www.bu.edu/eng/profile/douglas-densmore/
+  - https://www.cidarlab.org/doug-densmore
+- Recent Projects:
+  - Bio-design automation: software + biology + robots
+  - Genetic circuit design automation
+  - Fluigi: Microfluidic Device Synthesis for Synthetic Biology
+  - Improving engineered biological systems with electronics and microfluidics
+- Summarized Topics:
+  - Synthetic biology
+  - Microfluidics
+  - Cyber-Physical systems
 
 # Phase 1 Assignment: Build a Tutorial with an LLM
