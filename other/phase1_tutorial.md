@@ -1,3 +1,7 @@
+'''
+This is a first draft that has not been included in the main project folder
+'''
+
 # Tutorial: Energy-Constrained Closed-Loop Plant-Care Automation
 
 A walkthrough of the project for classmates who haven't seen it before — what it is, what kind of project it is, what the semester is actually testing, and why any of this matters outside a dorm-room growth chamber.

@@ -7,3 +7,5 @@ FAQ:
 - Maximum size of a team is 3 (can be a solo project)
 - Tutorial: Challenge yourself to learn a new topic
 - Outcomes: Love what you do and continue development
+
+There are multiple tutorials, quizzes, and proposals due to Google Drive rules preventing deletion of older files. The previous versions serve as version control in the Google Drive. 
